@@ -4,6 +4,9 @@ A simple minecraft hub plugin for small servers.
 # This plugin adds the functionality for,
 <br />
 - Double Jump
+<br />
 - /prefs
+<br />
 - /servers
+<br />
 - And other simple commands.
